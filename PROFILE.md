@@ -3,14 +3,14 @@
 <a href="https://twitter.com/?lang=en"> Twitter </a>
 <i> This is italic text </i>
 <b> This is bold text </b>
-<ol> 
-<li> 1. Queen of South</li>
-<li> 2. Game of Thrones</li>
-<li> 3. Selling Sunset </li>
-<li> 4. Bridgeton </li>
-<li> 5. Pretty Woman </li>
+<ol> Favourite TV shows
+<li> Queen of South</li>
+<li> Game of Thrones</li>
+<li> Selling Sunset </li>
+<li> Bridgeton </li>
+<li> Pretty Woman </li>
 </ol>
-<ul> 
+<ul> What I want to learn in this bootcamp.
 <li> HTML</li>
 <li> Java script</li>
 <li> CSS </li>
